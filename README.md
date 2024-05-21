@@ -1,5 +1,5 @@
 # Overview for memorable-password
-This command line script can generate up to 100 memorable passwords with lengths from 8 to 32. It uses the Unix / Linux web2 file, often located at /usr/share/dict. It generates passwords with symbols and numbers along with two memorable words to use as the password.
+This command line script can generate up to 100 memorable passwords with lengths from 8 to 36. It uses the Unix / Linux web2 file, often located at /usr/share/dict. It generates passwords with symbols and numbers along with two memorable words to use as the password.
 
 Example of output is below
 
