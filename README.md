@@ -34,6 +34,8 @@ This code is licensed under MIT License. See LICENSE
 Python3
 
 ## Run script
+At a minimum copy the dist folder, rename it to what you want, change directory into this folder and run the commands below. A Makefile is available for those that want to tinker with the code and regenerate the dist folder contents.
+
 For Non-Windows
 ```
 python3 memorable-password.py
@@ -51,3 +53,7 @@ make clean
 make test
 make dist
 ```
+
+### GitHub
+The project is located at https://github.com/devdog66/memorable-password
+
